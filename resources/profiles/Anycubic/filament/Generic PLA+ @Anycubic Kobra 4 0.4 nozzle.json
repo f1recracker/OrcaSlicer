@@ -1,13 +1,11 @@
 {
 	"type": "filament",
+	"name": "Generic PLA+ @Anycubic Kobra 4 0.4 nozzle",
+	"inherits": "",
 	"from": "system",
 	"setting_id": "Generic PLA+ @Anycubic Kobra 4 0.4 nozzle",
 	"filament_id": "GFPLA+",
-	"is_custom_defined": "0",
 	"instantiation": "true",
-	"version": "1.3.2606.12",
-	"inherits": "",
-	"name": "Generic PLA+ @Anycubic Kobra 4 0.4 nozzle",
 	"filament_settings_id": [
 		"Generic PLA+ @Anycubic Kobra 4 0.4 nozzle"
 	],
