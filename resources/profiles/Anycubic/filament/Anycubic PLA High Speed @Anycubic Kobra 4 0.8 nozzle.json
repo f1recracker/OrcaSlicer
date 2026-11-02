@@ -1,7 +1,6 @@
 {
 	"type": "filament",
 	"name": "Anycubic PLA High Speed @Anycubic Kobra 4 0.8 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "ZfMw6Wkcr2LxW8Os",
 	"filament_id": "OFjVOWfJ",

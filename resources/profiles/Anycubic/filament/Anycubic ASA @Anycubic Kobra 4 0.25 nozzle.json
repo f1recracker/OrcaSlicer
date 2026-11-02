@@ -1,7 +1,6 @@
 {
 	"type": "filament",
 	"name": "Anycubic ASA @Anycubic Kobra 4 0.25 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "NTueJJ4VsEqCjVTJ",
 	"filament_id": "OF0yFLkY",

@@ -1,7 +1,6 @@
 {
 	"type": "filament",
 	"name": "Anycubic PETG-CF @Anycubic Kobra 4 0.4 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "CGYpu2ORTkfT5dGr",
 	"filament_id": "OF9UJOGF",

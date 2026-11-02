@@ -1,7 +1,6 @@
 {
 	"type": "filament",
 	"name": "Anycubic TPU @Anycubic Kobra 4 0.4 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "e4f2piGZXcPkEP08",
 	"filament_id": "OFMsDGbs",

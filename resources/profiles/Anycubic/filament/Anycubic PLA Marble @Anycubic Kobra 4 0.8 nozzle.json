@@ -1,7 +1,6 @@
 {
 	"type": "filament",
 	"name": "Anycubic PLA Marble @Anycubic Kobra 4 0.8 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "pAIjDOrOf9Pyw1lB",
 	"filament_id": "OFCSyK66",

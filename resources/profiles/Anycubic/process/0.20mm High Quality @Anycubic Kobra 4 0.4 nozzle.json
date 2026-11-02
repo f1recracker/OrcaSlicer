@@ -1,7 +1,6 @@
 {
 	"type": "process",
 	"name": "0.20mm High Quality @Anycubic Kobra 4 0.4 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "gClROJBtEgObDRI9",
 	"instantiation": "true",

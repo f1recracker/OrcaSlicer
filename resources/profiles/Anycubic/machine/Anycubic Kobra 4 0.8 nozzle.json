@@ -1,7 +1,6 @@
 {
 	"type": "machine",
 	"name": "Anycubic Kobra 4 0.8 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "OtUEdrmchx779juE",
 	"instantiation": "true",

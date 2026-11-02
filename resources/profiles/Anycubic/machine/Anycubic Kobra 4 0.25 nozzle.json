@@ -1,7 +1,6 @@
 {
 	"type": "machine",
 	"name": "Anycubic Kobra 4 0.25 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "y72t5Ley1GXAvlIl",
 	"instantiation": "true",

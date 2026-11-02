@@ -1,7 +1,6 @@
 {
 	"type": "process",
 	"name": "0.48mm Standard @Anycubic Kobra 4 0.8 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "6nC1X8dfGyh8jvRz",
 	"instantiation": "true",

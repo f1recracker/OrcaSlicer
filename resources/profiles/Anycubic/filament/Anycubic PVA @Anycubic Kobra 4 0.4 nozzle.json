@@ -1,7 +1,6 @@
 {
 	"type": "filament",
 	"name": "Anycubic PVA @Anycubic Kobra 4 0.4 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "JtswoRsrXumFRdXJ",
 	"filament_id": "OFTkj6DR",

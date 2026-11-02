@@ -1,7 +1,6 @@
 {
 	"type": "filament",
 	"name": "Generic PLA Silk @Anycubic Kobra 4 0.4 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "TbG4PfQngT8MQL0e",
 	"filament_id": "OFesA6rF",

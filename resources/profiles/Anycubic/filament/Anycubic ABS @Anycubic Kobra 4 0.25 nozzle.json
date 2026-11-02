@@ -1,7 +1,6 @@
 {
 	"type": "filament",
 	"name": "Anycubic ABS @Anycubic Kobra 4 0.25 nozzle",
-	"inherits": "",
 	"from": "system",
 	"setting_id": "4KlZTFXU8Kljj586",
 	"filament_id": "OF223rZv",
