@@ -3,8 +3,8 @@
 	"name": "Anycubic PLA High Speed @Anycubic Kobra 4 0.4 nozzle",
 	"inherits": "",
 	"from": "system",
-	"setting_id": "GFSA04",
-	"filament_id": "GFPLA High Speed",
+	"setting_id": "VPxnBHqzEMUS9G5k",
+	"filament_id": "OFjVOWfJ",
 	"instantiation": "true",
 	"filament_settings_id": [
 		"Anycubic PLA High Speed @Anycubic Kobra 4 0.4 nozzle"

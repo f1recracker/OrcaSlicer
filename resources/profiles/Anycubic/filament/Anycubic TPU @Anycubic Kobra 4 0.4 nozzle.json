@@ -3,8 +3,8 @@
 	"name": "Anycubic TPU @Anycubic Kobra 4 0.4 nozzle",
 	"inherits": "",
 	"from": "system",
-	"setting_id": "GFSA04",
-	"filament_id": "GFTPU",
+	"setting_id": "e4f2piGZXcPkEP08",
+	"filament_id": "OFMsDGbs",
 	"instantiation": "true",
 	"filament_settings_id": [
 		"Anycubic TPU @Anycubic Kobra 4 0.4 nozzle"

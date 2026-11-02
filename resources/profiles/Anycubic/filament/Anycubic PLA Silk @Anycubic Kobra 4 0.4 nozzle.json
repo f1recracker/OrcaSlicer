@@ -3,8 +3,8 @@
 	"name": "Anycubic PLA Silk @Anycubic Kobra 4 0.4 nozzle",
 	"inherits": "",
 	"from": "system",
-	"setting_id": "GFSA04",
-	"filament_id": "GFPLA Silk",
+	"setting_id": "N8zhXtLdt1bY6RnJ",
+	"filament_id": "OFFwJWea",
 	"instantiation": "true",
 	"filament_settings_id": [
 		"Anycubic PLA Silk @Anycubic Kobra 4 0.4 nozzle"

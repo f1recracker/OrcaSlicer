@@ -3,8 +3,8 @@
 	"name": "Anycubic PLA Glow @Anycubic Kobra 4 0.4 nozzle",
 	"inherits": "",
 	"from": "system",
-	"setting_id": "GFSA04",
-	"filament_id": "GFPLA Glow",
+	"setting_id": "Dv4iGoEqGP2vaRIj",
+	"filament_id": "OF5PtjTp",
 	"instantiation": "true",
 	"filament_settings_id": [
 		"Anycubic PLA Glow @Anycubic Kobra 4 0.4 nozzle"
